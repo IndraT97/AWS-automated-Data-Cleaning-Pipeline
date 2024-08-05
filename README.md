@@ -1,4 +1,4 @@
-# AWS-automated-Data-Cleaning-Pipeline
+# AWS Automated Data Cleaning Pipeline (Work in Progress)
 An Automated Data Cleansing Pipeline was orchestracted using AWS lambda, Glue, Redshift, Athena and Quicksight
 
 # Architecture
